@@ -1,0 +1,14 @@
+.first{
+    background-color: #AAE3E2;
+    display: block;
+}
+.second{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.third{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(0, 255, 195);
+}
